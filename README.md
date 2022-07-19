@@ -31,7 +31,7 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-###What I learned
+### What I learned
 
 Learned that parent>nameoftag is given priority over parent>* even if it is writtern after.
 
