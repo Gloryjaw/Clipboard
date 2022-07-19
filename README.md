@@ -37,4 +37,4 @@ Learned that parent>nameoftag is given priority over parent>* even if it is writ
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Gloryjaw](https://www.frontendmentor.io/profile/Gloryjaw)
